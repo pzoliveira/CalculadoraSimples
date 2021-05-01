@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btnOperationStyle">
+        <item name="android:onClick">compute</item>
+        <item name="android:textSize">@dimen/opSize</item>
+        <item name="android:background">@color/colorTxt</item>
+        <item name="android:textColor">@color/colorOper</item>
+    </style>
+</resources>

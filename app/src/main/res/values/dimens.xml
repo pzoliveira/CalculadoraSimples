@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space">90sp</dimen>
+    <dimen name="txtSize">45dp</dimen>
+    <dimen name="opSize">35dp</dimen>
+    <dimen name="btnMargin">6sp</dimen>
+</resources>
